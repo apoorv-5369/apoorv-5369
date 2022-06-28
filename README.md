@@ -29,3 +29,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorv-5369&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-5369&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake](https://github.com/apoorv-5369/apoorv-5369/blob/output/github-contribution-grid-snake.svg)
+
+
