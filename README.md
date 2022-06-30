@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...Java.
+- 🔭 I’m currently working with ...Java.
 - 🌱 I’m currently learning ...Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on ...mini projects in Java using Spring Boot.
 - 🤔 I’m looking for help with ...DP.
