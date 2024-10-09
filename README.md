@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working with ...Java.
-- 🌱 I’m currently learning ...Data Structures & Algorithms.
+- 🌱 I’m currently learning ...Deep Learning and Ml models.
 - 👯 I’m looking to collaborate on ...mini projects in Java using Spring Boot.
 - 🤔 I’m looking for help with ...DP.
 - 💬 Ask me about ...anything that lies in the domain of life. 
